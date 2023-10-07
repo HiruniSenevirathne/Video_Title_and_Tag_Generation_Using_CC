@@ -1,0 +1,10 @@
+pip install --upgrade google-api-python-client
+
+pip install --upgrade google-auth-oauthlib google-auth-httplib2
+
+
+
+to download captions:
+pip install youtube-transcript-api # for windows
+or 
+pip3 install youtube-transcript-api # for Linux and MacOs 

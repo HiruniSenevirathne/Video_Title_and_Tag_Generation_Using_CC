@@ -1,0 +1,14 @@
+caption1: A breathtaking mountain landscape in the morning mist.
+title1: Majestic Morning Mountains
+
+caption2: Friends laughing together at a birthday party.
+title2: Joyful Birthday Celebration
+
+caption3: Colorful flowers blooming in a botanical garden.
+title3: Vibrant Blooms in the Garden
+
+caption4: A chef preparing a gourmet meal in a restaurant kitchen.
+title4: Culinary Masterpiece in the Making
+
+caption5: Children playing in the snow during winter vacation.
+title5: Winter Wonderland Fun

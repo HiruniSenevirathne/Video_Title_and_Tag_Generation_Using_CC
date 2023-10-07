@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "YE95B7GsmgT4FigSj_552ma5nZk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Ad2XgAUQc-Sr3cPQ6cMbfoKxWcA",
+            "id": "qgHeCfMa39E",
+            "snippet": {
+                "publishedAt": "2023-06-07T14:00:12Z",
+                "channelId": "UC7vVhkEfw4nOGp8TyDk7RcQ",
+                "title": "Spot Levels Up | Boston Dynamics",
+                "description": "The industry standard for dangerous and routine autonomous inspections just got better, now with a brand new set of features and hardware. \nWant to learn more about Spot? Read how Spot\u2019s latest features empower safe, autonomous robotic inspection: https://www.bostondynamics.com/resources/blog/next-step-safe-autonomous-robotic-inspection\n\nBridge the gap in your industry's digital transformation with Spot\u2019s new capabilities: https://resources.bostondynamics.com/missing-link-in-digital-transformation\n\nCustomer footage courtesy of GlobalFoundries, Turner Construction, UKAEA with Createc at Sellafield, UKAEA with University of Bristol at Chernobyl, Cognite with Aker BP, Ontario Tech University with OPG, NASA JPL with NeBula AI and Autonomy & NASA Ames with Braille, bp, Oxford Robotics Institute, National Grid, Auburn University, Czech Technical University, FAIR (Fundamental Artificial Intelligence Research) Embodied Team at Meta AI, as well as BuildingPoint Scandinavia with thanks to LNS AS, Elkem Tana AS, and Trimble. \n\n#BostonDynamics",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qgHeCfMa39E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qgHeCfMa39E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qgHeCfMa39E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qgHeCfMa39E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qgHeCfMa39E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Boston Dynamics",
+                "tags": [
+                    "boston dynamics",
+                    "boston dynamics spot",
+                    "spot the dog",
+                    "boston dynamics spot robot",
+                    "enterprise asset management",
+                    "maximo",
+                    "automated inspections robot",
+                    "automated inspection",
+                    "thermal inspection",
+                    "acoustic leak detection",
+                    "boston dynamics robot",
+                    "boston dynamics dog",
+                    "boston dynamics robots",
+                    "boston dynamics robot dog",
+                    "boston dynamics dance",
+                    "robot dog boston dynamics",
+                    "spot boston dynamics",
+                    "automated thermal inspection robot",
+                    "predictive maintenance",
+                    "flir systems",
+                    "fluke"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Spot Levels Up | Boston Dynamics",
+                    "description": "The industry standard for dangerous and routine autonomous inspections just got better, now with a brand new set of features and hardware. \nWant to learn more about Spot? Read how Spot\u2019s latest features empower safe, autonomous robotic inspection: https://www.bostondynamics.com/resources/blog/next-step-safe-autonomous-robotic-inspection\n\nBridge the gap in your industry's digital transformation with Spot\u2019s new capabilities: https://resources.bostondynamics.com/missing-link-in-digital-transformation\n\nCustomer footage courtesy of GlobalFoundries, Turner Construction, UKAEA with Createc at Sellafield, UKAEA with University of Bristol at Chernobyl, Cognite with Aker BP, Ontario Tech University with OPG, NASA JPL with NeBula AI and Autonomy & NASA Ames with Braille, bp, Oxford Robotics Institute, National Grid, Auburn University, Czech Technical University, FAIR (Fundamental Artificial Intelligence Research) Embodied Team at Meta AI, as well as BuildingPoint Scandinavia with thanks to LNS AS, Elkem Tana AS, and Trimble. \n\n#BostonDynamics"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

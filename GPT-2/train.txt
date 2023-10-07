@@ -1,0 +1,14 @@
+caption1: A beautiful sunset over the ocean.
+title1: Stunning Ocean Sunset
+
+caption2: A group of friends having a picnic in the park.
+title2: Fun Picnic with Friends
+
+caption3: An adorable puppy playing in the garden.
+title3: Playful Puppy in the Garden
+
+caption4: Delicious homemade pizza fresh from the oven.
+title4: Mouthwatering Homemade Pizza
+
+caption5: A woman reading a book by the fireplace.
+title5: Cozy Reading by the Fireplace
